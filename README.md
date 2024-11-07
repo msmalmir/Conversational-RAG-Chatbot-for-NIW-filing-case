@@ -145,14 +145,18 @@ Here are some example questions and expected responses from the chatbot:
 
 - **Question**: "How much does the filing fee cost?"  
   **Answer**: "$700"
-The part of document related to this question.
+
+**The part of document related to this question.**
+
   
 ![The actual answer for question1 from the document](Image/Question1.PNG)
 
 
 - **Question**: "Why do I need letters of recommendation?"  
   **Answer**: "To provide an authoritative perspective on the value and significance of your research."
-The part of document related to this question.
+
+**The part of document related to this question.**
+
 
 ![The actual answer question2 from the document](Image/Question2.PNG)
 
@@ -164,7 +168,8 @@ The part of document related to this question.
 - **Question**: "What are those two types?"  
   **Answer**: "Dependent and independent."
 
-The part of document related to these two questions.
+**The part of document related to these two questions.**
+
 
 
 ![The actual answer question 3 & 4 from the document](Image/Question3and4.PNG)
