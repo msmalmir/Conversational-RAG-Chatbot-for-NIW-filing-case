@@ -27,7 +27,7 @@ In this project, LangChain’s retrieval and conversational modules, Hugging Fac
 ## Data Description
 
 The data used in this project consists of a 37-page PDF document containing detailed instructions provided by **North America Immigration Law Group (Chen Immigration Law Associates)**. This document is intended for clients seeking guidance on filing the I-140 NIW (National Interest Waiver) form. The instructions outline the necessary steps, required documents, recommendations, and other essential information clients need to successfully prepare their NIW applications.
-You can download the data from [here]()
+You can download the data from [here](https://github.com/msmalmir/Conversational-RAG-Chatbot-for-NIW-filing-case/tree/main/Dataset)
 
 ## Project Structure
 The project is divided into the following sections:
