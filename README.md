@@ -167,7 +167,7 @@ Here are some example questions and expected responses from the chatbot:
 
 
 
-![The actual answer question 3 & 4 from the document](Image/Question 3and4.PNG)
+![The actual answer question 3 & 4 from the document](Image/Question3and4.PNG)
 
 
 
