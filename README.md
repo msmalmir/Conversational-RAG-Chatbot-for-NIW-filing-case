@@ -146,14 +146,30 @@ Here are some example questions and expected responses from the chatbot:
 - **Question**: "How much does the filing fee cost?"  
   **Answer**: "$700"
 
+  
+![The actual answer for question1 from the document](Image/Question1.PNG)
+
+
 - **Question**: "Why do I need letters of recommendation?"  
   **Answer**: "To provide an authoritative perspective on the value and significance of your research."
+
+
+![The actual answer question2 from the document](Image/Question2.PNG)
+
 
 - **Question**: "How many types of recommenders are there?"  
   **Answer**: "Two."
 
+
 - **Question**: "What are those two types?"  
   **Answer**: "Dependent and independent."
+
+
+
+
+![The actual answer question 3 & 4 from the document](Image/Question 3and4.PNG)
+
+
 
 ## Future Enhancements
 
